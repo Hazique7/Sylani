@@ -10,14 +10,14 @@ import Home from "./Components/home/Home";
 function App() {
   return (
     <>
-      {/* <>
+      <>
         <Navbar />
         <Slide />
-      </> */}
+      </>
       <Routes>
-        
-        <Route path="/login" element={<Login />} />
+
         <Route path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
       </Routes>
     </>
   );
