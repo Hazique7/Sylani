@@ -1,0 +1,20 @@
+:where(.css-dev-only-do-not-override-j0nf2s).ant-form {
+    margin-top: 15%;
+    margin-left: 30%;
+    width: 30%;
+}
+h2{
+    text-align: center;
+    margin-top: 15%;
+    margin-left: 43%;
+    display: flex;
+    color: rgba(48, 177, 59, 0.973);
+}
+H6{
+    margin-top: -20PX;
+    text-align: center;
+    margin-left: 50%;
+    display: flex;
+    color: rgb(39, 39, 145);
+    padding-bottom: 6%;
+}

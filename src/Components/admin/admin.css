@@ -1,0 +1,40 @@
+.admin_name{
+    margin-top: 5%;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+.add_category{
+    
+    width: 50%;
+    text-align: center;
+}
+.btn_add{
+    margin-right: -3%;
+    color: rgb(235, 235, 235);
+    background-color: rgb(62, 223, 62);
+    border: none;
+    padding: 13px;
+    border-radius: 4px;
+    width: 70px;
+}
+.btn_logout{
+    margin-top: 20px;
+    width: 250px;
+    color: rgb(235, 235, 235);
+    background-color: rgb(62, 223, 62);
+}
+.category{
+    margin-left: 24%;
+    border-radius: 13PX;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+    margin-top: 23PX;
+    height: 40PX;
+    color: rgb(235, 235, 235);
+    background-color: rgb(62, 223, 62);
+}
+H3{
+    color: rgb(62, 223, 62);;
+}
