@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sylani/static/css/main.50c57621.css",
+    "main.js": "/sylani/static/js/main.618727b6.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sylani/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/sylani/index.html",
+    "main.50c57621.css.map": "/sylani/static/css/main.50c57621.css.map",
+    "main.618727b6.js.map": "/sylani/static/js/main.618727b6.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sylani/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50c57621.css",
+    "static/js/main.618727b6.js"
+  ]
+}
